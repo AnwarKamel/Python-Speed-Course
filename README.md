@@ -10,7 +10,7 @@ print(data)
 # output 
 {'name': 'Anwar', 'languages': ['English', 'Arabic']}
 ```
-<a href="#">link video</a>
+<a href="https://youtu.be/hoCrOl6FSGY">link video</a>
 -----------------------------------------------------------
 #### 2- Flatten a list of lists
 ```Python
