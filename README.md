@@ -26,4 +26,4 @@ print(result)
 # output 
 [1, 2, 3, 5, 8, 10]
 ```
-<a href="#">link video</a>
+<a href="https://youtu.be/ZUDsA3fOBpY">link video</a>
